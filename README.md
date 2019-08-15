@@ -1,2 +1,2 @@
 # pagina-web
-Este es el repositorio con el código
+Este es el repositorio con el código de la página de estudios fotográficos
